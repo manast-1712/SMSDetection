@@ -1,2 +1,2 @@
 # SMSDetection
-Sms spam/Ham Detection
+Sms spam/Ham Detection using Deepl learning model.
