@@ -1,2 +1,2 @@
 # SMSDetection
-Sms spam/Ham Detection using Deepl learning model.
+Sms Detection using Deep learning model And Flask Framework.
